@@ -13,4 +13,4 @@ b0c3924582204290a9b58a9a88713d5b:SparkUserCape
 43ad1b246d61450cae99467b00f26442:pogdog
 35dad83948344e7a8f10c878d1d5ac2f:SparkDev
 3a2ab622fb2c410b9c0526a392b3d6c3:SparkDev
-3e1b507a5f68476da63d568362c532d5:dvdcapes/dvdcape0,dvdcapes/dvdcape1:50
+3e1b507a5f68476da63d568362c532d5:dvdcapes/dvdcape0,dvdcapes/dvdcape1,dvdcapes/dvdcape2:500
