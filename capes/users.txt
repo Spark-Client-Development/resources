@@ -12,5 +12,5 @@ d29d28182c514da38fe5e04d35f4aae2:SparkUserCape
 b0c3924582204290a9b58a9a88713d5b:SparkUserCape
 43ad1b246d61450cae99467b00f26442:pogdog
 35dad83948344e7a8f10c878d1d5ac2f:SparkDev
-3a2ab622fb2c410b9c0526a392b3d6c3:rgb/0rgb/2rgb/4rgb/6rgb/8rgb/10rgb/12rgb/14rgb/16rgb/18rgb/20rgb/22rgb/24rgb/26rgb/28rgb/30rgb/32rgb/34rgb/36rgb/38rgb/40rgb/42rgb/44rgb/46rgb/48rgb/50rgb/52rgb/54rgb/56rgb/58rgb/60rgb/62rgb/64rgb/66rgb/68rgb/70rgb/72rgb/74rgb/76rgb/78rgb/80rgb/82rgb/84rgb/86rgb/88rgb/90rgb/92rgb/94rgb/96rgb/98rgb/100rgb/102rgb/104rgb/106rgb/108rgb/110rgb/112rgb/114rgb/116rgb/118rgb/120rgb/122rgb/124rgb/126rgb/128rgb/130rgb/132rgb/134rgb/136rgb/138rgb/140rgb/142rgb/144rgb/146rgb/148rgb/150rgb/152rgb/154rgb/156rgb/158rgb/160rgb/162rgb/164rgb/166rgb/168rgb/170rgb/172rgb/174rgb/176rgb/178rgb/180rgb/182rgb/184rgb/186rgb/188rgb/190rgb/192rgb/194rgb/196rgb/198:1
-3e1b507a5f68476da63d568362c532d5:dreamcapes/cape0,dreamcapes/cape1,dreamcapes/cape2,dreamcapes/cape3:500
+3a2ab622fb2c410b9c0526a392b3d6c3:rgb/0rgb/4rgb/8rgb/12rgb/16rgb/20rgb/24rgb/28rgb/32rgb/36rgb/40rgb/44rgb/48rgb/52rgb/56rgb/60rgb/64rgb/68rgb/72rgb/76rgb/80rgb/84rgb/88rgb/92rgb/96rgb/100rgb/104rgb/108rgb/112rgb/116rgb/120rgb/124rgb/128rgb/132rgb/136rgb/140rgb/144rgb/148rgb/152rgb/156rgb/160rgb/164rgb/168rgb/172rgb/176rgb/180rgb/184rgb/188rgb/192rgb/196:4
+3e1b507a5f68476da63d568362c532d5:dreamcapes/cape0,dreamcapes/cape1,dreamcapes/cape2,dreamcapes/cape3:1000
