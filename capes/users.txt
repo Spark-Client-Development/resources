@@ -12,5 +12,5 @@ d29d28182c514da38fe5e04d35f4aae2:SparkUserCape
 b0c3924582204290a9b58a9a88713d5b:SparkUserCape
 43ad1b246d61450cae99467b00f26442:pogdog
 35dad83948344e7a8f10c878d1d5ac2f:SparkDev
-3a2ab622fb2c410b9c0526a392b3d6c3:rgb/0,rgb/2,rgb/4,rgb/6,rgb/8,rgb/10,rgb/12,rgb/14,rgb/16,rgb/18,rgb/20,rgb/22,rgb/24,rgb/26,rgb/28,rgb/30,rgb/32,rgb/34,rgb/36,rgb/38,rgb/40,rgb/42,rgb/44,rgb/46,rgb/48,rgb/50,rgb/52,rgb/54,rgb/56,rgb/58,rgb/60,rgb/62,rgb/64,rgb/66,rgb/68,rgb/70,rgb/72,rgb/74,rgb/76,rgb/78,rgb/80,rgb/82,rgb/84,rgb/86,rgb/88,rgb/90,rgb/92,rgb/94,rgb/96,rgb/98:1000
+3a2ab622fb2c410b9c0526a392b3d6c3:reb/0,reb/2,reb/4,reb/6,reb/8,reb/10,reb/12,reb/14,reb/16,reb/18,reb/20,reb/22,reb/24,reb/26,reb/28,reb/30,reb/32,reb/34,reb/36,reb/38,reb/40,reb/42,reb/44,reb/46,reb/48,reb/50,reb/52,reb/54,reb/56,reb/58,reb/60,reb/62,reb/64,reb/66,reb/68,reb/70,reb/72,reb/74,reb/76,reb/78,reb/80,reb/82,reb/84,reb/86,reb/88,reb/90,reb/92,reb/94,reb/96,reb/98:200
 3e1b507a5f68476da63d568362c532d5:dreamcapes/cape0,dreamcapes/cape1,dreamcapes/cape2,dreamcapes/cape3:1000
