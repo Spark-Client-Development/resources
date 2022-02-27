@@ -12,6 +12,6 @@ d29d28182c514da38fe5e04d35f4aae2:SparkUserCape
 b0c3924582204290a9b58a9a88713d5b:SparkUserCape
 43ad1b246d61450cae99467b00f26442:pogdog
 35dad83948344e7a8f10c878d1d5ac2f:SparkDev
-3e1b507a5f68476da63d568362c532d5:SparkCape
+3e1b507a5f68476da63d568362c532d5:SparkDev
 dvd:dreamcapes/cape0,dreamcapes/cape1,dreamcapes/cape2,dreamcapes/cape3:1000
 
